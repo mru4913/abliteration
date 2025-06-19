@@ -1,11 +1,11 @@
 # Abliterate
 
-A Python library for model abliteration, designed to help make language models safer by removing harmful behaviors.
+A Python library for LLM abliteration
     
-## Installation
+## Installation (Work in progress)
 
 ```bash
-pip install abliterate
+pip install abliterate # (FUTURE)
 ```
 
 ## Features
